@@ -1,0 +1,7 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    // ... 其他的配置项 ...
+    "jsx": "react"
+  },
+}
